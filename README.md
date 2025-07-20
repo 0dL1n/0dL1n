@@ -1,6 +1,8 @@
-# 👋 Olá, Visitante! Bem-vindo(a) ao meu GitHub!
+# 👋 Hello! Welcome to my Github profile.
 
-### Eu sou o Ivanildo Adelino da Silva Junior, mas pode me chamar de **0dL1n**! 🚀
+## My name is Ivanildo and my nickname is **0dL1n**!🚀
+
+
 
 Sou um apaixonado por tecnologia e um estudante em constante evolução, sempre em busca de novos desafios e conhecimentos na área de desenvolvimento e TI. Acredito que a tecnologia tem o poder de transformar e otimizar processos, e adoro fazer parte dessa construção!
 
